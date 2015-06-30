@@ -1,0 +1,3 @@
+var myProperty;
+if (myProperty) {
+}
